@@ -1,0 +1,12 @@
+// UIKIT
+@import "uikit/src/scss/variables-theme.scss";
+@import "uikit/src/scss/mixins-theme.scss";
+@import "uikit/src/scss/uikit-theme.scss";
+
+// Variables
+@import 'variables';
+
+
+.wrapper-admin {
+  height: calc(100vh - 80px);
+}
